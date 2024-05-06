@@ -1,0 +1,1 @@
+Import-Certificate -FilePath "C:\Windows\security\certs\visadpsmain.crt" -CertStoreLocation Cert:\LocalMachine\Root

@@ -1,0 +1,1 @@
+msiexec.exe /i "C:\Windows\Setup\Apps\Windows\GlobalProtect.msi" /quiet PORTAL=vpn.varointernal.com CONNECTMETHOD=on-demand

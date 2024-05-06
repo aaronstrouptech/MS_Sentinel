@@ -1,0 +1,1 @@
+msiexec /I C:\Windows\Setup\Apps\fsagentwindows.msi /quiet

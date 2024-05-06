@@ -1,0 +1,1 @@
+msiexec /I C:\Windows\Setup\Apps\putty64.msi /quiet

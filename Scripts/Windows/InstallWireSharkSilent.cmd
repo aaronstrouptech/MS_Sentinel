@@ -1,0 +1,1 @@
+start /wait C:/Windows/Setup/Apps/Wireshark-win64-3.2.3.exe /S /L*v "c:\install\logs\wireshark-win64-2.5.0.log"

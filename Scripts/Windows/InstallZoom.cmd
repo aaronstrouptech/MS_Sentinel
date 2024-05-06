@@ -1,0 +1,1 @@
+msiexec.exe /i "C:\Windows\Setup\Apps\Zoom.msi" /quiet

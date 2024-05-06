@@ -1,0 +1,1 @@
+C:\Windows\Setup\Apps\JavaSetup.exe /s

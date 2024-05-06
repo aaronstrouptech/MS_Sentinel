@@ -1,0 +1,1 @@
+"%ProgramFiles%\Wireshark\uninstall.exe" /S

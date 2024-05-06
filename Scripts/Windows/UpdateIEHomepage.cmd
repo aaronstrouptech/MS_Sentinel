@@ -1,0 +1,1 @@
+REG ADD "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Start Page" /t REG_SZ /d https://www.visaonline.com/login/LoginMain.aspx?goto=https%3A%2F%2Fsecure.visaonline.com%2F /f /reg:64

@@ -1,0 +1,1 @@
+C:\Windows\Setup\Apps\SophosSetup.exe" --products=antivirus;intercept --quiet

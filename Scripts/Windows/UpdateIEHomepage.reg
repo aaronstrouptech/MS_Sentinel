@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main]
+"Start Page"="https://www.visaonline.com/login/LoginMain.aspx?goto=https%3A%2F%2Fsecure.visaonline.com%2F"

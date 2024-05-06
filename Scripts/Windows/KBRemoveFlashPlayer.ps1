@@ -1,0 +1,1 @@
+﻿wusa.exe C:\Windows\Setup\Apps\Windows\windows10.0-kb4577586-x64_c9bb49df325c20ddc147137b3f769fa44d800dde.msu /quiet /norestart

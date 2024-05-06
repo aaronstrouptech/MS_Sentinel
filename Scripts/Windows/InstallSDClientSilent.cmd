@@ -1,0 +1,1 @@
+msiexec.exe /I C:\Windows\Setup\Apps\SDEClientSetup.msi /quiet

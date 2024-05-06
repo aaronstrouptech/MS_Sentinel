@@ -1,0 +1,1 @@
+msiexec.exe /i "C:\Windows\Setup\Apps\CXone.msi" /quiet

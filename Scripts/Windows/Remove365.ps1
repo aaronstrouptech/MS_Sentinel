@@ -1,0 +1,1 @@
+setup.exe /configure remove365.xml

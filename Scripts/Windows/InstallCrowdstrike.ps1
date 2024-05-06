@@ -1,0 +1,1 @@
+WindowsSensor.exe /install /quiet /norestart ProvNoWait=1 CID=B49339F133994A4A86DA7ED97802E20F-0D
